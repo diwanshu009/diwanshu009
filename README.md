@@ -14,8 +14,6 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
 ###
 
 <h2>🚀 Languages and Tools I Use</h2>
